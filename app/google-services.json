@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396650613762",
+    "firebase_url": "https://vidzz-1e92a.firebaseio.com",
+    "project_id": "vidzz-1e92a",
+    "storage_bucket": "vidzz-1e92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396650613762:android:d21b352dd403eb0f19eb1b",
+        "android_client_info": {
+          "package_name": "com.ggcoder.vidzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396650613762-rurf5ehkg2usmm0sctn3uanp7ajvupil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFozq7ElxxZoa4ZaBJePNmHMqfuUYSV0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396650613762-rurf5ehkg2usmm0sctn3uanp7ajvupil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
