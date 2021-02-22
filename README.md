@@ -9,8 +9,10 @@ This is a basic mobile application that uses Firebase for fast scalable treaming
 <img src="https://github.com/pjdurden/Vidzz/blob/main/Screenshot_20210222-101450.jpg" width="400" height="600">
 
 ## Record and upload img screen
+<p float="left">
 <img src="https://github.com/pjdurden/Vidzz/blob/main/Screenshot_20210222-101517.jpg" width="400" height="600">
 <img src="https://github.com/pjdurden/Vidzz/blob/main/Screenshot_20210222-101553.jpg" width="400" height="600">
+ </p>
 
 ## Video Stream Screen with swipe up and down feature
 <img src="https://github.com/pjdurden/Vidzz/blob/main/Screenshot_20210222-101623.jpg" width="400" height="600">
