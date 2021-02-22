@@ -1,5 +1,5 @@
 # Vidzz
-<img src="https://github.com/pjdurden/Vidzz/blob/main/app%20logo.png" width="400" height="400">
+<img src="https://github.com/pjdurden/Vidzz/blob/main/app%20logo.png" width="300" height="300">
 Android app to record, share and browse short videos on an area based user feed. Implemented local cache management.
 This is a basic mobile application that uses Firebase for fast scalable treaming of videos written in Java.
 
